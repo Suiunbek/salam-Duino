@@ -1,0 +1,2 @@
+# salam-Duino
+Men uchun
